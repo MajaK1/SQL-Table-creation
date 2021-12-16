@@ -1,2 +1,2 @@
 # SQL-Table-creation
-Creates a table with 7 columns with different datas.
+Creates a table with 7 columns with different data.
